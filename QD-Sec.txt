@@ -1,0 +1,11 @@
+QD-Sec1. Route and Destination of a Flight:
+
+SELECT origin, destination
+FROM Flight
+WHERE flight_number = <>;
+
+QD-Sec2. FirstClass Seat/s available on a particular flight
+
+SELECT COUNT(*) AS available_seats
+FROM Seat
+WHERE flight_number = <> AND class = 'First Class' AND is_available = true;

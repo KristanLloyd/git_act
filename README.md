@@ -2,7 +2,7 @@
 
 Leader:
 
-Shekaina Marie Cayco
+Shekinah Marie Cayco
 
 Members:
 
